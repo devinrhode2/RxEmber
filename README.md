@@ -21,6 +21,15 @@ An [Ember-CLI](http://www.ember-cli.com) version of this project is now availabl
 is primarily done on. The RxEmber project (this one) exists mostly to create a "global" build of rx-ember for 
 non-Ember-CLI consumption.
 
+The Documentation for this project, however, is still here.
+
+You can install this addon with:
+
+```
+npm install --save-dev ember-cli-rx
+ember generate ember-cli-rx
+```
+
 
 ## Basics
 
